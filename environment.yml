@@ -1,0 +1,8 @@
+name: mongo_env
+channels:
+  - defaults
+prefix: /home/artur/miniconda3/envs/mongo_env
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+
