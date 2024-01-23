@@ -9,3 +9,7 @@ conda create -n mongo_env
 ```
 
 pip install pymongo
+
+# Contributing
+Update requirements using:
+```conda env export > environment.yml```
